@@ -1,1 +1,1 @@
-![logo](pics\github_repo_pic.png)
+![logo](pics/github_repo_pic.png)
