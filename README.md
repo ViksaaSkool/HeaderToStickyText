@@ -1,14 +1,14 @@
-## Header to Sticky Text
+# Header to Sticky Text
 
 <img alt="logo" height="220" src="pics/github_repo_pic.png" width="220"/>
 
 ------
 
-### Demo
+## Demo
 <img src="pics/main_screen.gif" width="200" height="400"/> <img src="pics/button_1.gif" width="200" height="400"/> <img src="pics/button_2.gif" width="200" height="400"/>
 
 ------
-### Use
+## Use
 
 The very basic usage: 
 
@@ -46,14 +46,16 @@ The example of this is in the third gif (left-to-right), when the user clicks th
 Other params that can influence the UI and you can override accordingly.
 
 ------
-### License
+
+## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 [Read More](LICENSE)
 
 ------
-# Developed By
+
+## Developed By
 Viktor Arsovski
 </br>
 <a href="https://mk.linkedin.com/in/varsovski">
